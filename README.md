@@ -5,6 +5,4 @@ Subfolders contain different scripts and documentation:
 
 01_find_primer_pairs:
 
-  Python script which uses aligned genomic reads to identify conserved sites and place primer pairs in the
-
-02_
+  Python script to find primer pairs in conserved regions across bam files.
