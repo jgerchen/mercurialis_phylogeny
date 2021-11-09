@@ -1,4 +1,4 @@
-#Python script to cluster basecalled Oxford Nanopore reads from PCR amplicons and generate consensus sequences.
+# Python script to cluster basecalled Oxford Nanopore reads from PCR amplicons and generate consensus sequences.
 
 This script was written for python3 and uses the following python packages:
 
