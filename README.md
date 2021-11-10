@@ -11,6 +11,6 @@ Python script to find primer pairs in conserved regions across bam files.
 
 Python script to cluster basecalled Oxford Nanopore reads from PCR amplicons and generate consensus sequences.
 
-## 03_subset_alignment
+## 03_subset_alignment:
 
 Python script to reduce the number of (allelic) sequences in an alignment containing polyploids.
