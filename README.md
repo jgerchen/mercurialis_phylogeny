@@ -1,5 +1,5 @@
 # mercurialis_phylogeny
-This repository contains four Python scripts used for analysis in the paper titled 'Recurrent allopolyploidization, Y-chromosome introgression and the evolution of sexual systems in the plant genus Mercurialis' intended for publication in the 'Sex determination, sex chromosome evolution, and the role of sexual differentiation in land plants' theme issue of Philosophical Transactions B.
+This repository contains four Python scripts used for the analyses in the paper titled 'Recurrent allopolyploidization, Y-chromosome introgression and the evolution of sexual systems in the plant genus Mercurialis' intended for publication in the 'Sex determination, sex chromosome evolution, and the role of sexual differentiation in land plants' theme issue of Philosophical Transactions B.
 
 Subfolders contain different scripts and documentation:
 
