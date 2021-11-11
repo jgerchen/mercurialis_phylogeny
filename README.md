@@ -14,3 +14,7 @@ Python script to cluster basecalled Oxford Nanopore reads from PCR amplicons and
 ## 03_subset_alignment:
 
 Python script to reduce the number of (allelic) sequences in an alignment containing polyploids.
+
+## 04_multilocus_phylogeny
+
+Python script which generates multilocus phylogenies for alignments containing allopolyploid samples with multiple diverged homeologous sequences
